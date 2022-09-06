@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662468649 source:c:\users\mazen\desktop\bank database\bank_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1662311910 source:c:\users\mazen\desktop\bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank_functions.h"
+
+1662311910 c:\users\mazen\desktop\bank database\bank_functions.h
+
